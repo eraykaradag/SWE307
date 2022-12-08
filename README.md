@@ -8,3 +8,4 @@ In this project you are expected to build an information system that uses big-da
 **Method:** All class will participate one project as if they are working in a real company, and individual tasks will be distributed in the class. Project will be done using Java. All class will collaborate on GitHub. I will be watching the contributions from the commits.
 
 **Architectural design:** See Figure 2. Details will be discussed in the class.
+[Project architecture.](pro22.png)
