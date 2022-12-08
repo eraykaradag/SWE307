@@ -1,5 +1,5 @@
 # SWE 307 Big Data Project 2
-Due date: 24 November 2022
+**Due date:** 24 November 2022
 
 In this project you are expected to build an information system that uses big-data tools to scale horizontally.
 
