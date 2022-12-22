@@ -10,3 +10,16 @@ In this project you are expected to build an information system that uses big-da
 **Architectural design:** See Figure 2. Details will be discussed in the class.
 <br>
 ![Project architecture.](pro22.png)
+
+
+## Informations About Database Server Of The Project
+
+**Keyspace:** SWE307 <br>
+**Table Name:** Product <br>
+**Kafka Topic Name:** SWE307 <br>
+#### Table Structure
+
+| pName(text) | imgUrl(text) | price(float) | discount(float) | Like(counter) | Dislike(counter) |
+| ----------- | ------------ | ------------ | --------------- | ------------- | ---------------- |
+| productTest | pathOfImg    | 10           |    0.4          |    10         | 2                |
+
