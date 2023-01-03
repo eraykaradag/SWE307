@@ -14,12 +14,12 @@ In this project you are expected to build an information system that uses big-da
 
 ## Informations About Database Server Of The Project
 
-**Keyspace:** SWE307 <br>
-**Table Name:** Product <br>
+**Keyspace:** swe307 <br>
+**Table Name:** products <br>
 **Kafka Topic Name:** SWE307 <br>
 #### Table Structure
 
-| pName(text) | imgUrl(text) | price(float) | discount(float) | Like(counter) | Dislike(counter) |
+| pname(text) | imgurl(text) | price(float) | discount(float) | like(counter) | dislike(counter) |
 | ----------- | ------------ | ------------ | --------------- | ------------- | ---------------- |
 | productTest | pathOfImg    | 10           |    0.4          |    10         | 2                |
 
